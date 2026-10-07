@@ -14,7 +14,7 @@ evaluate:
 	python scripts/evaluate.py
 
 docker-build:
-	docker build -t shopease-rag .
+	docker build -t shopease-enterprise-rag-customer-support-assistant .
 
 docker-run:
-	docker run -p 8000:8000 --env-file .env shopease-rag
+	docker run -p 8000:8000 --env-file .env shopease-enterprise-rag-customer-support-assistant

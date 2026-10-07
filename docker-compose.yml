@@ -3,7 +3,7 @@ version: '3.9'
 services:
   app:
     build: .
-    container_name: shopease-rag
+    container_name: shopease-enterprise-rag-customer-support-assistant
     ports:
       - "8000:8000"
     env_file:

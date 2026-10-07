@@ -1,4 +1,4 @@
-# ShopEase RAG Customer Support Assistant
+# ShopEase Enterprise RAG Customer Support Assistant
 
 ShopEase is a lightweight retrieval-augmented generation (RAG) application for customer support queries across shipping, returns, refunds, and cancellations.
 
@@ -30,7 +30,7 @@ The app follows a standard RAG pipeline:
 ## Project structure
 
 ```text
-ShopEase/
+ShopEase_Enterprise_RAG_Customer_Support_Assistant/
 ├── app/
 │   ├── api/
 │   ├── core/
@@ -68,7 +68,7 @@ ShopEase/
 ### 1) Create a virtual environment
 
 ```bash
-cd /path/to/ShopEase
+cd /path/to/ShopEase_Enterprise_RAG_Customer_Support_Assistant
 python3 -m venv .venv
 source .venv/bin/activate
 ```

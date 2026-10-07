@@ -6,7 +6,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file='.env', env_file_encoding='utf-8', extra='ignore')
 
-    app_name: str = 'ShopAssist RAG'
+    app_name: str = 'ShopEase Enterprise RAG Customer Support Assistant'
     app_env: str = 'development'
     log_level: str = 'INFO'
 

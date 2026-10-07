@@ -1,5 +1,5 @@
 [project]
-name = "shopease"
+name = "shopease-enterprise-rag-customer-support-assistant"
 version = "0.1.0"
 description = "Customer support RAG assistant for shipping, returns, refunds, and cancellation questions"
 readme = "README.md"

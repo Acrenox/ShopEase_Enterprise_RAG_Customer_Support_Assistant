@@ -1,1 +1,1 @@
-"""ShopEase RAG application package."""
+"""ShopEase Enterprise RAG customer support assistant package."""
