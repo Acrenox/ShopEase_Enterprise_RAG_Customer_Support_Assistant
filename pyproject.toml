@@ -1,0 +1,10 @@
+[project]
+name = "shopease"
+version = "0.1.0"
+description = "Customer support RAG assistant for shipping, returns, refunds, and cancellation questions"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

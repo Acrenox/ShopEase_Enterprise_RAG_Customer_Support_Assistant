@@ -1,0 +1,32 @@
+[
+  {
+    "id": "q001",
+    "question": "How can I track my order?",
+    "category": "shipping"
+  },
+  {
+    "id": "q002",
+    "question": "My package has not arrived. What should I do?",
+    "category": "shipping"
+  },
+  {
+    "id": "q003",
+    "question": "Can I return a damaged product?",
+    "category": "returns"
+  },
+  {
+    "id": "q004",
+    "question": "How long does a refund take?",
+    "category": "refunds"
+  },
+  {
+    "id": "q005",
+    "question": "Can I cancel my order?",
+    "category": "cancellation"
+  },
+  {
+    "id": "q006",
+    "question": "Can I return something after 90 days?",
+    "category": "unknown"
+  }
+]

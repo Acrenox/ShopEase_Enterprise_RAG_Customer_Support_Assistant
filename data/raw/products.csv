@@ -1,0 +1,5 @@
+product_id,name,category,price,returnable,warranty_days
+P001,Wireless Headphones,Electronics,4999,true,365
+P002,Laptop Stand,Accessories,1999,true,180
+P003,Personalized Mug,Home,899,false,0
+P004,Mechanical Keyboard,Electronics,6999,true,365

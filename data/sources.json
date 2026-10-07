@@ -1,0 +1,51 @@
+[
+  {
+    "source_id": "shipping_policy",
+    "name": "Shipping Policy",
+    "url": "https://example.com/shipping",
+    "category": "shipping",
+    "region": "IN"
+  },
+  {
+    "source_id": "return_policy",
+    "name": "Return Policy",
+    "url": "https://example.com/returns",
+    "category": "returns",
+    "region": "IN"
+  },
+  {
+    "source_id": "refund_policy",
+    "name": "Refund Policy",
+    "url": "https://example.com/refunds",
+    "category": "refunds",
+    "region": "IN"
+  },
+  {
+    "source_id": "cancellation_policy",
+    "name": "Cancellation Policy",
+    "url": "https://example.com/cancel",
+    "category": "cancellation",
+    "region": "IN"
+  },
+  {
+    "source_id": "warranty_policy",
+    "name": "Warranty Policy",
+    "url": "https://example.com/warranty",
+    "category": "warranty",
+    "region": "IN"
+  },
+  {
+    "source_id": "faq",
+    "name": "Frequently Asked Questions",
+    "url": "https://example.com/faq",
+    "category": "faq",
+    "region": "IN"
+  },
+  {
+    "source_id": "products",
+    "name": "Product Information",
+    "url": "https://example.com/products",
+    "category": "product",
+    "region": "IN"
+  }
+]
